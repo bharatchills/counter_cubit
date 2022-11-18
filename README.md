@@ -1,6 +1,6 @@
 # counter_cubit
 
-A new Flutter project.
+Flutter Default Counter app built with cubit for state management.
 
 ## Getting Started
 
